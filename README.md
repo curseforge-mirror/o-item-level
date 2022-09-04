@@ -1,6 +1,6 @@
-# O Item Level Mirror
+# O Item Level (OiLvL) Mirror
 
-This is a mirror of Teece's O Item Level
+This is a mirror of olzenkhaw0192's O Item Level (OiLvL)
 
 - [Curseforge URL](https://www.curseforge.com/wow/addons/o-item-level)
 
